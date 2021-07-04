@@ -1,0 +1,2 @@
+#define nodecey_VERSION_MAJOR @nodecey_VERSION_MAJOR@
+#define nodecey_VERSION_MINOR @nodecey_VERSION_MINOR@
